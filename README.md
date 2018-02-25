@@ -1,5 +1,7 @@
 # generators-exercise
 
+https://www.meetup.com/Cap-Clug/events/221717919/
+
 An exercise to illustrate different approaches to solving a simple but non-trivial random number generation problem.
 
 The starting point of this exercise is some code that already exists to generate two random number sequences: one of A numbers, and one of B numbers. That code is solution0.clj.
